@@ -4,6 +4,8 @@
 
 I love building **scalable backend systems**, experimenting with **distributed systems**, and occasionally having fun with **game development** and side projects.
 
+![shivam-datavid-space-shooter](https://github.com/user-attachments/assets/77b4f6b1-c74e-4f88-b943-9953d62f6ac3)
+
 ---
 
 ## 🧑‍💻 About Me
