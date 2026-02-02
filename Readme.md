@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shivam Singh (`shivam-datavid`)
+# 👋 Hi, I'm Shivam Singh
 
 🚀 Software Engineer | Backend & Cloud Enthusiast | Problem Solver
 
@@ -66,19 +66,9 @@ Key areas you’ll see across my projects:
 * 🏸 Badminton & fitness
 
 ---
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivam-datavid\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-datavid\&layout=compact\&theme=tokyonight)
-
----
-
 ## 🤝 Let’s Connect
 
-* 💼 LinkedIn: *(add your link)*
-* 🌐 Portfolio: *(optional)*
+* 💼 LinkedIn: *(www.linkedin.com/in/meditat)*
 * 📫 Open to collaboration on backend, infra, or fun side projects
 
 ---
